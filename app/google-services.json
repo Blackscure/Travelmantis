@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "265925121602",
+    "firebase_url": "https://travelmantis-1a03f.firebaseio.com",
+    "project_id": "travelmantis-1a03f",
+    "storage_bucket": "travelmantis-1a03f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265925121602:android:8e8783adf90c6fa2ae7fdb",
+        "android_client_info": {
+          "package_name": "com.blackscure.travel_mantis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265925121602-9t2kupaakao548q997sk1d3g4v4bmq3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzLQfdMdh2aSTL7yWjmKwyr4Ijtb24gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265925121602-9t2kupaakao548q997sk1d3g4v4bmq3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
